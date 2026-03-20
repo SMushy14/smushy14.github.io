@@ -5,7 +5,7 @@ title: Home
 
 # 🐾 Welcome to Pawsome Shelter
 
-[Home](home.md) | [About](about.md) | [Animals](animals.md) | [Volunteer](volunteer.md)
+[Home](index.md) | [About](about.md) | [Animals](animals.md) | [Volunteer](volunteer.md)
 
 ---
 
