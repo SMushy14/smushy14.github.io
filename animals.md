@@ -1,0 +1,35 @@
+---
+layout: default
+title: "animals"
+---
+
+[Home](home.md) | [About](about.md) | [Animals](animals.md) | [Volunteer](volunteer.md)
+
+---
+
+# 🐾 Available Animals
+
+## 🐶 Max
+- Breed: Labrador
+- Age: 2 years
+- Friendly and playful
+
+[Adopt Max](adopt.md)
+
+---
+
+## 🐱 Bella
+- Breed: Orange Cat
+- Age: 1 year
+- Calm and affectionate
+
+[Adopt Bella](adopt.md)
+
+---
+
+## 🐕 Rocky
+- Breed: German Shepherd
+- Age: 3 years
+- Loyal and protective
+
+[Adopt Rocky](adopt.md)
