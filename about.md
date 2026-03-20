@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 ---
-[Home](index.md) | [About](about.md) | [Animals](animals.md) | [Volunteer](volunteer.md)
+[Home](index.md) | [About](about.md) | [Animals](animals.md) | [Adopt](adopt.md) | [Volunteer](volunteer.md)
 
 ---
 
