@@ -35,6 +35,7 @@ header_pages:
   - home.md
   - about.md
   - animals.md
+  - adopt.md
   - volunteer.md
 
 # Exclude from processing.
