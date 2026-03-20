@@ -11,7 +11,7 @@ title: "animals"
 
 ## 🐶 Max
 - Breed: Labrador
-- Age: 2 years
+- Age: 3 years
 - Friendly and playful
 
 [Adopt Max](adopt.md)
